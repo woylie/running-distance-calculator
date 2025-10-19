@@ -135,7 +135,8 @@ class RunningDistanceCalculator extends HTMLElement {
         }
 
         input {
-          width: 90%;
+          box-sizing: border-box;
+          width: 100%;
           padding: 0.5rem;
           border: 1px solid var(--border-normal);
           border-radius: var(--radius);
