@@ -81,9 +81,9 @@ class RunningDistanceCalculator extends HTMLElement {
             --text-normal: #fff;
             --text-inverted: #000;
             --text-button-secondary: var(--text-inverted);
-            --background-primary: #b9e3ff;
+            --background-primary: #62a5d2;
             --background-secondary: #e2e2e2;
-            --background-critical: #e0002b;
+            --background-critical: #b51f3d;
             --background-surface: #1d2027;
             --border-normal: #3d454b;
 
