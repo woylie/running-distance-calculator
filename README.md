@@ -12,4 +12,3 @@ The calculator is implemented as a custom element.
 <running-distance-calculator></running-distance-calculator>
 <script src="running-distance-calculator.js"></script>
 ```
-
