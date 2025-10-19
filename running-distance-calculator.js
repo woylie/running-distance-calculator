@@ -85,7 +85,7 @@ class RunningDistanceCalculator extends HTMLElement {
             --background-secondary: #e2e2e2;
             --background-critical: #e0002b;
             --background-surface: #1d2027;
-            --border-normal: #8b8b8b;
+            --border-normal: #3d454b;
 
             color-scheme: dark;
           }
